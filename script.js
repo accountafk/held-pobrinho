@@ -1,5 +1,5 @@
 // Adicione os sons
-const jumpSound = new Audio('jump.mp3'); // Som de pulo
+const jumpSound = new Audio('jump2.mp3'); // Som de pulo
 const hitSound = new Audio('hit.mp3');   // Som de colisão
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
